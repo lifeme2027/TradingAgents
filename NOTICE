@@ -1,0 +1,11 @@
+TradingAgents C# port
+Copyright 2026 TradingAgents C# port
+
+This program is a derivative work of TauricResearch/TradingAgents
+(https://github.com/TauricResearch/TradingAgents), distributed under the
+Apache License, Version 2.0. The upstream license text is in the LICENSE file.
+
+The C# port keeps the research decision graph: analysts, bull and bear
+researchers, research manager, trader, risk debate, and portfolio manager.
+It does not include the upstream data vendors, backtester, HTML report, or
+provider catalog, and it does not send orders to a broker.
